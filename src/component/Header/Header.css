@@ -1,0 +1,26 @@
+.header a{
+text-decoration: none;
+margin-right: 15px;
+font-size: 20px;
+color: rgb(255, 98, 0);
+}
+.header a:hover{
+color: rgb(15, 114, 201);
+}
+.title{
+    font-family: 'Dancing Script';
+    font-size: 40px;
+    color: rgb(255, 98, 0);
+}
+.header{
+    background-color: rgb(237, 240, 239);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);  
+  
+    
+}
